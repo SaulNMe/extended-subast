@@ -1,0 +1,161 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`rendering renders as expected 1`] = `
+<Component>
+  <Component
+    style={
+      Array [
+        Object {
+          "flexDirection": "row",
+        },
+        false,
+      ]
+    }
+  >
+    <Component
+      style={
+        Array [
+          Object {
+            "justifyContent": "center",
+          },
+          Object {
+            "marginRight": 16,
+          },
+        ]
+      }
+    >
+      <Component
+        source={1}
+        style={
+          Object {
+            "borderRadius": 10,
+            "height": 60,
+            "width": 60,
+          }
+        }
+      />
+    </Component>
+    <Component
+      style={
+        Object {
+          "flex": 1,
+        }
+      }
+    >
+      <Component
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+            },
+          ]
+        }
+      >
+        <Component
+          style={
+            Object {
+              "flex": 1,
+            }
+          }
+        >
+          <SmallText
+            color="subdued"
+            text=""
+          />
+          <BodyText
+            color="black"
+            text=""
+            weight="medium"
+          />
+        </Component>
+        <Component>
+          <TouchableOpacity
+            activeOpacity={0.2}
+          >
+            <Icon
+              allowFontScaling={false}
+              color="#BDBDBD"
+              name="more-vertical"
+              size={24}
+            />
+          </TouchableOpacity>
+        </Component>
+      </Component>
+      <Component
+        style={
+          Array [
+            Object {
+              "flexDirection": "row",
+            },
+            Object {
+              "justifyContent": "space-between",
+            },
+          ]
+        }
+      >
+        <Component
+          style={
+            Array [
+              Object {
+                "justifyContent": "space-between",
+              },
+              Object {
+                "flex": 1,
+              },
+              Object {
+                "flexDirection": "row",
+              },
+            ]
+          }
+        >
+          <Component
+            style={
+              Object {
+                "flexDirection": "column",
+              }
+            }
+          >
+            <SmallText
+              color="subdued"
+              text="Mejor Precio"
+            />
+            <SmallText
+              color="darker"
+              text="$  MXN"
+              weight="regular"
+            />
+          </Component>
+          <Component
+            style={
+              Object {
+                "flexDirection": "column",
+              }
+            }
+          >
+            <SmallText
+              color="subdued"
+              text="Tiempo Restante"
+            />
+            <_temp
+              onCountdownEnd={[Function]}
+              onTick={null}
+              sourceFormatMask="YYYY-MM-DD HH:mm:ss"
+              targetFormatMask="HH:mm:ss"
+              timeStyle={
+                Array [
+                  Object {
+                    "fontSize": 14,
+                    "fontWeight": "400",
+                  },
+                  null,
+                ]
+              }
+              toDate="2137-11-24 00:00:00"
+            />
+          </Component>
+        </Component>
+      </Component>
+    </Component>
+  </Component>
+</Component>
+`;

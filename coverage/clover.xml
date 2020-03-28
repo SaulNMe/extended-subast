@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1553805310798" clover="3.2.0">
+  <project timestamp="1553805310798" name="All files">
+    <metrics statements="650" coveredstatements="223" conditionals="170" coveredconditionals="19" methods="243" coveredmethods="8" elements="1063" coveredelements="250" complexity="0" loc="650" ncloc="650" packages="11" files="53" classes="53"/>
+    <package name="app.actions">
+      <metrics statements="326" coveredstatements="133" conditionals="10" coveredconditionals="0" methods="162" coveredmethods="0"/>
+      <file name="AlertsActions.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/actions/AlertsActions.js">
+        <metrics statements="36" coveredstatements="12" conditionals="2" coveredconditionals="0" methods="16" coveredmethods="0"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="61" count="2" type="stmt"/>
+        <line num="65" count="2" type="stmt"/>
+        <line num="69" count="2" type="stmt"/>
+        <line num="73" count="2" type="stmt"/>
+        <line num="77" count="2" type="stmt"/>
+        <line num="82" count="2" type="stmt"/>
+      </file>
+      <file name="CategoriesActions.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/actions/CategoriesActions.js">
+        <metrics statements="12" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="37" count="2" type="stmt"/>
+      </file>
+      <file name="EndsTodayActions.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/actions/EndsTodayActions.js">
+        <metrics statements="36" coveredstatements="12" conditionals="2" coveredconditionals="0" methods="16" coveredmethods="0"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="61" count="2" type="stmt"/>
+        <line num="65" count="2" type="stmt"/>
+        <line num="69" count="2" type="stmt"/>
+        <line num="73" count="2" type="stmt"/>
+        <line num="77" count="2" type="stmt"/>
+        <line num="82" count="2" type="stmt"/>
+      </file>
+      <file name="ForumActions.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/actions/ForumActions.js">
+        <metrics statements="15" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="35" count="2" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+      </file>
+      <file name="LoginActions.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/actions/LoginActions.js">
+        <metrics statements="13" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+      </file>
+      <file name="MeActions.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/actions/MeActions.js">
+        <metrics statements="16" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="9" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="34" count="2" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+      </file>
+      <file name="MembershipActions.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/actions/MembershipActions.js">
+        <metrics statements="13" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="35" count="2" type="stmt"/>
+      </file>
+      <file name="OrderIdActions.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/actions/OrderIdActions.js">
+        <metrics statements="15" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="35" count="2" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+      </file>
+      <file name="OrdersActions.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/actions/OrdersActions.js">
+        <metrics statements="36" coveredstatements="12" conditionals="2" coveredconditionals="0" methods="16" coveredmethods="0"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="61" count="2" type="stmt"/>
+        <line num="65" count="2" type="stmt"/>
+        <line num="69" count="2" type="stmt"/>
+        <line num="73" count="2" type="stmt"/>
+        <line num="77" count="2" type="stmt"/>
+        <line num="82" count="2" type="stmt"/>
+      </file>
+      <file name="RatingActions.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/actions/RatingActions.js">
+        <metrics statements="12" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+      </file>
+      <file name="RequisitionIdActions.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/actions/RequisitionIdActions.js">
+        <metrics statements="12" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+      </file>
+      <file name="RequisitionQuotationActions.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/actions/RequisitionQuotationActions.js">
+        <metrics statements="12" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+      </file>
+      <file name="RequisitionsActions.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/actions/RequisitionsActions.js">
+        <metrics statements="36" coveredstatements="12" conditionals="2" coveredconditionals="0" methods="16" coveredmethods="0"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="61" count="2" type="stmt"/>
+        <line num="65" count="2" type="stmt"/>
+        <line num="69" count="2" type="stmt"/>
+        <line num="73" count="2" type="stmt"/>
+        <line num="77" count="2" type="stmt"/>
+        <line num="82" count="2" type="stmt"/>
+      </file>
+      <file name="SummaryActions.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/actions/SummaryActions.js">
+        <metrics statements="14" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+      </file>
+      <file name="TenderIdActions.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/actions/TenderIdActions.js">
+        <metrics statements="12" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="0"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+      </file>
+      <file name="TendersActions.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/actions/TendersActions.js">
+        <metrics statements="36" coveredstatements="12" conditionals="2" coveredconditionals="0" methods="16" coveredmethods="0"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="47" count="0" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="61" count="2" type="stmt"/>
+        <line num="65" count="2" type="stmt"/>
+        <line num="69" count="2" type="stmt"/>
+        <line num="73" count="2" type="stmt"/>
+        <line num="77" count="2" type="stmt"/>
+        <line num="82" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="app.components.BodyText">
+      <metrics statements="6" coveredstatements="2" conditionals="6" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="BodyText.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/components/BodyText/BodyText.js">
+        <metrics statements="6" coveredstatements="2" conditionals="6" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="16" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+      </file>
+      <file name="BodyTextStyle.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/components/BodyText/BodyTextStyle.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="index.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/components/BodyText/index.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="app.components.ReqItem">
+      <metrics statements="5" coveredstatements="5" conditionals="8" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <file name="ReqItem.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/components/ReqItem/ReqItem.js">
+        <metrics statements="5" coveredstatements="5" conditionals="8" coveredconditionals="6" methods="1" coveredmethods="1"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="93" count="1" type="stmt"/>
+        <line num="104" count="1" type="stmt"/>
+      </file>
+      <file name="ReqItemStyle.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/components/ReqItem/ReqItemStyle.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="index.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/components/ReqItem/index.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="app.components.SmallText">
+      <metrics statements="6" coveredstatements="2" conditionals="6" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="SmallText.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/components/SmallText/SmallText.js">
+        <metrics statements="6" coveredstatements="2" conditionals="6" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="15" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="16" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+      </file>
+      <file name="SmallTextStyle.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/components/SmallText/SmallTextStyle.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+      <file name="index.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/components/SmallText/index.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="app.locales.en">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="translations.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/locales/en/translations.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="app.locales.es">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="translations.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/locales/es/translations.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="app.reducers">
+      <metrics statements="193" coveredstatements="68" conditionals="102" coveredconditionals="8" methods="52" coveredmethods="5"/>
+      <file name="AlertsReducer.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/reducers/AlertsReducer.js">
+        <metrics statements="18" coveredstatements="18" conditionals="8" coveredconditionals="8" methods="5" coveredmethods="5"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="23" count="10" type="cond" truecount="7" falsecount="0"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="32" count="2" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="50" count="1" type="stmt"/>
+        <line num="55" count="1" type="stmt"/>
+        <line num="61" count="1" type="stmt"/>
+        <line num="65" count="1" type="stmt"/>
+        <line num="69" count="2" type="stmt"/>
+        <line num="70" count="1" type="stmt"/>
+        <line num="73" count="2" type="stmt"/>
+        <line num="74" count="3" type="stmt"/>
+        <line num="77" count="2" type="stmt"/>
+        <line num="78" count="1" type="stmt"/>
+      </file>
+      <file name="CategoriesReducer.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/reducers/CategoriesReducer.js">
+        <metrics statements="6" coveredstatements="1" conditionals="5" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="17" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+      </file>
+      <file name="EndsTodayReducer.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/reducers/EndsTodayReducer.js">
+        <metrics statements="18" coveredstatements="5" conditionals="11" coveredconditionals="0" methods="6" coveredmethods="0"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="23" count="0" type="cond" truecount="0" falsecount="7"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="69" count="2" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="73" count="2" type="cond" truecount="0" falsecount="1"/>
+        <line num="74" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="77" count="2" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+      </file>
+      <file name="ForumReducer.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/reducers/ForumReducer.js">
+        <metrics statements="8" coveredstatements="2" conditionals="6" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="22" count="0" type="cond" truecount="0" falsecount="5"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+        <line num="52" count="0" type="stmt"/>
+      </file>
+      <file name="LoginReducer.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/reducers/LoginReducer.js">
+        <metrics statements="6" coveredstatements="1" conditionals="5" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="15" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+      </file>
+      <file name="MeReducer.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/reducers/MeReducer.js">
+        <metrics statements="6" coveredstatements="1" conditionals="5" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="14" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+      </file>
+      <file name="MembershipReducer.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/reducers/MembershipReducer.js">
+        <metrics statements="6" coveredstatements="1" conditionals="5" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="17" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+      </file>
+      <file name="OrderIdReducer.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/reducers/OrderIdReducer.js">
+        <metrics statements="8" coveredstatements="2" conditionals="6" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="23" count="0" type="cond" truecount="0" falsecount="5"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="53" count="0" type="stmt"/>
+      </file>
+      <file name="OrdersReducer.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/reducers/OrdersReducer.js">
+        <metrics statements="18" coveredstatements="5" conditionals="8" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="23" count="0" type="cond" truecount="0" falsecount="7"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="69" count="2" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="73" count="2" type="stmt"/>
+        <line num="74" count="0" type="stmt"/>
+        <line num="77" count="2" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+      </file>
+      <file name="RatingReducer.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/reducers/RatingReducer.js">
+        <metrics statements="6" coveredstatements="1" conditionals="5" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="17" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+      </file>
+      <file name="RequisitionIdReducer.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/reducers/RequisitionIdReducer.js">
+        <metrics statements="6" coveredstatements="1" conditionals="5" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="17" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+      </file>
+      <file name="RequisitionQuotationReducer.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/reducers/RequisitionQuotationReducer.js">
+        <metrics statements="6" coveredstatements="1" conditionals="5" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="17" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+      </file>
+      <file name="RequisitionsReducer.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/reducers/RequisitionsReducer.js">
+        <metrics statements="18" coveredstatements="5" conditionals="8" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="23" count="0" type="cond" truecount="0" falsecount="7"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="69" count="2" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="73" count="2" type="stmt"/>
+        <line num="74" count="0" type="stmt"/>
+        <line num="77" count="2" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+      </file>
+      <file name="SummaryReducer.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/reducers/SummaryReducer.js">
+        <metrics statements="8" coveredstatements="2" conditionals="6" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="22" count="0" type="cond" truecount="0" falsecount="5"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="46" count="0" type="stmt"/>
+      </file>
+      <file name="TenderIdReducer.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/reducers/TenderIdReducer.js">
+        <metrics statements="6" coveredstatements="1" conditionals="5" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="17" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+      </file>
+      <file name="TendersReducer.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/reducers/TendersReducer.js">
+        <metrics statements="18" coveredstatements="5" conditionals="8" coveredconditionals="0" methods="5" coveredmethods="0"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="23" count="0" type="cond" truecount="0" falsecount="7"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="44" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="65" count="0" type="stmt"/>
+        <line num="69" count="2" type="stmt"/>
+        <line num="70" count="0" type="stmt"/>
+        <line num="73" count="2" type="stmt"/>
+        <line num="74" count="0" type="stmt"/>
+        <line num="77" count="2" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+      </file>
+      <file name="index.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/reducers/index.js">
+        <metrics statements="31" coveredstatements="16" conditionals="1" coveredconditionals="0" methods="15" coveredmethods="0"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="41" count="2" type="stmt"/>
+        <line num="42" count="0" type="stmt"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="45" count="0" type="stmt"/>
+        <line num="47" count="2" type="stmt"/>
+        <line num="48" count="0" type="stmt"/>
+        <line num="50" count="2" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="53" count="2" type="stmt"/>
+        <line num="54" count="0" type="stmt"/>
+        <line num="56" count="2" type="stmt"/>
+        <line num="57" count="0" type="stmt"/>
+        <line num="59" count="2" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="62" count="2" type="cond" truecount="0" falsecount="1"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="65" count="2" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="68" count="2" type="stmt"/>
+        <line num="69" count="0" type="stmt"/>
+        <line num="71" count="2" type="stmt"/>
+        <line num="72" count="0" type="stmt"/>
+        <line num="74" count="2" type="stmt"/>
+        <line num="75" count="0" type="stmt"/>
+        <line num="77" count="2" type="stmt"/>
+        <line num="78" count="0" type="stmt"/>
+        <line num="80" count="2" type="stmt"/>
+        <line num="81" count="0" type="stmt"/>
+        <line num="83" count="2" type="stmt"/>
+        <line num="84" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="app.services">
+      <metrics statements="101" coveredstatements="6" conditionals="30" coveredconditionals="2" methods="24" coveredmethods="2"/>
+      <file name="ApiService.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/services/ApiService.js">
+        <metrics statements="96" coveredstatements="2" conditionals="29" coveredconditionals="2" methods="22" coveredmethods="1"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="14" count="2" type="cond" truecount="2" falsecount="2"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="30" count="0" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="50" count="0" type="stmt"/>
+        <line num="51" count="0" type="stmt"/>
+        <line num="55" count="0" type="stmt"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="61" count="0" type="stmt"/>
+        <line num="62" count="0" type="stmt"/>
+        <line num="66" count="0" type="stmt"/>
+        <line num="68" count="0" type="stmt"/>
+        <line num="72" count="0" type="stmt"/>
+        <line num="80" count="0" type="stmt"/>
+        <line num="81" count="0" type="stmt"/>
+        <line num="82" count="0" type="stmt"/>
+        <line num="86" count="0" type="stmt"/>
+        <line num="90" count="0" type="stmt"/>
+        <line num="92" count="0" type="stmt"/>
+        <line num="96" count="0" type="stmt"/>
+        <line num="97" count="0" type="stmt"/>
+        <line num="104" count="0" type="stmt"/>
+        <line num="105" count="0" type="stmt"/>
+        <line num="106" count="0" type="stmt"/>
+        <line num="110" count="0" type="stmt"/>
+        <line num="113" count="0" type="stmt"/>
+        <line num="114" count="0" type="stmt"/>
+        <line num="116" count="0" type="stmt"/>
+        <line num="120" count="0" type="stmt"/>
+        <line num="121" count="0" type="stmt"/>
+        <line num="128" count="0" type="stmt"/>
+        <line num="129" count="0" type="stmt"/>
+        <line num="133" count="0" type="stmt"/>
+        <line num="136" count="0" type="stmt"/>
+        <line num="137" count="0" type="stmt"/>
+        <line num="142" count="0" type="stmt"/>
+        <line num="143" count="0" type="stmt"/>
+        <line num="149" count="0" type="stmt"/>
+        <line num="150" count="0" type="stmt"/>
+        <line num="151" count="0" type="stmt"/>
+        <line num="155" count="0" type="stmt"/>
+        <line num="160" count="0" type="stmt"/>
+        <line num="161" count="0" type="stmt"/>
+        <line num="165" count="0" type="stmt"/>
+        <line num="166" count="0" type="stmt"/>
+        <line num="170" count="0" type="stmt"/>
+        <line num="171" count="0" type="stmt"/>
+        <line num="175" count="0" type="stmt"/>
+        <line num="176" count="0" type="stmt"/>
+        <line num="180" count="0" type="stmt"/>
+        <line num="181" count="0" type="stmt"/>
+        <line num="182" count="0" type="stmt"/>
+        <line num="184" count="0" type="stmt"/>
+        <line num="189" count="0" type="stmt"/>
+        <line num="190" count="0" type="stmt"/>
+        <line num="191" count="0" type="stmt"/>
+        <line num="194" count="0" type="stmt"/>
+        <line num="197" count="0" type="stmt"/>
+        <line num="201" count="0" type="stmt"/>
+        <line num="203" count="0" type="stmt"/>
+        <line num="208" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="209" count="0" type="stmt"/>
+        <line num="212" count="0" type="stmt"/>
+        <line num="214" count="0" type="stmt"/>
+        <line num="215" count="0" type="stmt"/>
+        <line num="216" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="217" count="0" type="stmt"/>
+        <line num="219" count="0" type="stmt"/>
+        <line num="224" count="0" type="stmt"/>
+        <line num="225" count="0" type="stmt"/>
+        <line num="226" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="227" count="0" type="stmt"/>
+        <line num="228" count="0" type="stmt"/>
+        <line num="230" count="0" type="stmt"/>
+        <line num="231" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="232" count="0" type="stmt"/>
+        <line num="233" count="0" type="stmt"/>
+        <line num="234" count="0" type="stmt"/>
+        <line num="235" count="0" type="stmt"/>
+        <line num="237" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="238" count="0" type="stmt"/>
+        <line num="239" count="0" type="stmt"/>
+        <line num="240" count="0" type="stmt"/>
+        <line num="241" count="0" type="stmt"/>
+        <line num="242" count="0" type="stmt"/>
+      </file>
+      <file name="Local.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/services/Local.js">
+        <metrics statements="5" coveredstatements="4" conditionals="1" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="app.styles">
+      <metrics statements="6" coveredstatements="6" conditionals="6" coveredconditionals="3" methods="0" coveredmethods="0"/>
+      <file name="ApplicationStyles.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/styles/ApplicationStyles.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+      <file name="Colors.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/styles/Colors.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+      <file name="Fonts.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/styles/Fonts.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+      <file name="Metrics.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/styles/Metrics.js">
+        <metrics statements="2" coveredstatements="2" conditionals="6" coveredconditionals="3" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+      <file name="index.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/styles/index.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="app.utils">
+      <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="NormalizeById.js" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/app/utils/NormalizeById.js">
+        <metrics statements="6" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="2" count="0" type="stmt"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="assets">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="msgLogo.png" path="/Users/jorge/Documents/lacueva/cotemar/cotizame-native/assets/msgLogo.png">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

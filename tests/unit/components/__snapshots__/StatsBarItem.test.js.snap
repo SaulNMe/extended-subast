@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`redering renders as expected 1`] = `
+<Component
+  style={
+    Object {
+      "alignItems": "center",
+      "justifyContent": "center",
+      "margin": 12,
+    }
+  }
+>
+  <SubtitleText
+    color="darker"
+    text=""
+    weight="regular"
+  />
+  <SmallText
+    color="darker"
+    text=""
+    weight="regular"
+  />
+</Component>
+`;
